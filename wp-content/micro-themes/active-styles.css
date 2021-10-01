@@ -1,0 +1,38 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> post **/
+#post-13 .uagb-post__inner-wrap {
+	
+}
+
+/** Geral >> Convidados - 2 **/
+.uagb-block-12cf559e > .uagb-section__overlay {
+	width: 960px !important;
+	padding-top: 0 !important;
+	border-top-width: 0 !important;
+}
+
+
+/*( Desktop grande )*/
+@media (min-width: 1200px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Convidados - 2 **/
+	.uagb-block-12cf559e > .uagb-section__overlay {
+	border-top-left-radius: 5px !important;
+	border-top-right-radius: 5px !important;
+}
+
+	/** Geral >> convidados - quadrado **/
+	#post-13 .uagb-section__background-none {
+	border-bottom-right-radius: 5px !important;
+	border-bottom-left-radius: 5px !important;
+}
+
+
+}
+
