@@ -12,7 +12,7 @@
 	<atom:link href="https://petcomputacaouece.github.io/secomp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://petcomputacaouece.github.io/secomp</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Sep 2021 18:56:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Oct 2021 20:15:03 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -80,7 +80,7 @@
 		
 			</item>
 		<item>
-		<title>Nome</title>
+		<title>Débora Ruth</title>
 		<link>https://petcomputacaouece.github.io/secomp/258-2/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
@@ -89,9 +89,25 @@
 		<category><![CDATA[convidados]]></category>
 		<guid isPermaLink="false">https://petcomputacaouece.github.io/secomp/?p=258</guid>
 
-					<description><![CDATA[Descrição]]></description>
+					<description><![CDATA[Estudante de Engenharia de Software UFC Campus Quixadá,  perita particular na área de Computação Forense e Crimes Informáticos...]]></description>
 										<content:encoded><![CDATA[
-<p class="has-ast-global-color-8-color has-text-color">Descrição</p>
+<p class="has-ast-global-color-8-color has-text-color">Estudante de Engenharia de Software UFC Campus Quixadá.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Perita particular na área de Computação Forense e Crimes Informáticos.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Pesquisadora na área de Segurança da Informação e Computação Forense.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Organizadora do Roadsec Fortaleza (Maior evento de segurança da américa&nbsp;latina).</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Analista de Segurança da Informação/ SIEM na empresa ( ViperIT/ Mobills Labs)</p>
 ]]></content:encoded>
 					
 		
