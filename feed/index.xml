@@ -12,7 +12,7 @@
 	<atom:link href="https://petcomputacaouece.github.io/secomp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://petcomputacaouece.github.io/secomp</link>
 	<description></description>
-	<lastBuildDate>Mon, 11 Oct 2021 00:49:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Oct 2021 00:54:16 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>GEMP</title>
+		<link>https://petcomputacaouece.github.io/secomp/gemp/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2021 23:40:39 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[convidados]]></category>
+		<guid isPermaLink="false">https://petcomputacaouece.github.io/secomp/?p=404</guid>
+
+					<description><![CDATA[GEMP é um grupo de estudos pra competições de programação, principalmente pra maratona de programação ICPC, que conta com 6 bolsas PCA atualmente.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color"><strong>GEMP</strong> é um grupo de estudos pra competições de programação, principalmente pra maratona de programação ICPC, que conta com 6 bolsas PCA atualmente.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Ganesh</title>
 		<link>https://petcomputacaouece.github.io/secomp/ganesh/</link>
 		
@@ -38,7 +56,7 @@
 		
 			</item>
 		<item>
-		<title>Joathan Rios</title>
+		<title>Joathan Rios da Silva</title>
 		<link>https://petcomputacaouece.github.io/secomp/267-2/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
@@ -161,7 +179,7 @@
 
 					<description><![CDATA[Graduanda em Ciência da Computação na USP e técnica em informática pelo Instituto Federal da Bahia.]]></description>
 										<content:encoded><![CDATA[
-<p class="has-ast-global-color-8-color has-text-color has-medium-font-size"><strong>Luísa Moura</strong> é graduanda em Ciência da Computação na USP e técnica em informática pelo Instituto Federal da Bahia. Já atuou em diferentes áreas e atualmente faz estágio na área de Engenharia de Soluções no Facebook. É apaixonada por tecnologia,&nbsp;atua ativamente em grupos que visam promover a inclusão de Mulheres na computação e, no seu tempo livre, faz uns projetinhos aleatórios!&nbsp;</p>
+<p class="has-ast-global-color-8-color has-text-color"><strong>Luísa Moura</strong> é graduanda em Ciência da Computação na USP e técnica em informática pelo Instituto Federal da Bahia. Já atuou em diferentes áreas e atualmente faz estágio na área de Engenharia de Soluções no Facebook. É apaixonada por tecnologia,&nbsp;atua ativamente em grupos que visam promover a inclusão de Mulheres na computação e, no seu tempo livre, faz uns projetinhos aleatórios!&nbsp;</p>
 ]]></content:encoded>
 					
 		
