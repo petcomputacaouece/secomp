@@ -10,12 +10,9 @@
 	border-top-width: 0 !important;
 }
 
-
-/*= Calendário de atividades = */
-
-/** Calendário de atividades >> Lockout_resumo **/
-.uagb-block-ce479bab .uagb-ifb-desc {
-	
+/** Geral >> Sobre nos uagb ifb img src _2 **/
+#sobre-nos .uagb-ifb-img-src {
+	margin-left: 7px !important;
 }
 
 
@@ -44,33 +41,44 @@
 	margin-left: 11px !important;
 }
 
-
-	/*= Calendário de atividades = */
-
-	/** Calendário de atividades >> Resumo_palestra_Ruth **/
-	.uagb-block-ab7659b4 .has-ast-global-color-8-color:nth-of-type(3) {
-	font-size: 14px !important;
+	/** Geral >> Post 13 wp image 87 **/
+	#post-13 .wp-image-87 {
+	width: 231px !important;
 }
 
-	/** Calendário de atividades >> Lockout_resumo **/
-	.uagb-block-ce479bab .uagb-ifb-desc {
-	font-size: 12px !important;
-	text-align: justify !important;
+	/** Geral >> Uagb block 7b64d975 wp image 445 **/
+	.uagb-block-7b64d975 .wp-image-445 {
+	width: 276px !important;
 }
 
-	/** Calendário de atividades >> Resumo_lockout **/
-	.uagb-block-e091277f .has-ast-global-color-8-color:nth-of-type(2) {
-	font-size: 14px !important;
+	/** Geral >> Uagb block 8c38d76c wp image 410 **/
+	.uagb-block-8c38d76c .wp-image-410 {
+	width: 274px !important;
 }
 
-	/** Calendário de atividades >> Resumo_minicurso_ganesh **/
-	.uagb-block-6de71ace .has-medium-font-size {
-	font-size: 14px !important;
+	/** Geral >> Uagb block d3fbed15 wp image 445 **/
+	.uagb-block-d3fbed15 .wp-image-445 {
+	width: 266px !important;
 }
 
-	/** Calendário de atividades >> Resumo_minicurso_luisa **/
-	.wp-block-media-text__content > .has-ast-global-color-8-color:nth-of-type(4) {
-	font-size: 14px !important;
+	/** Geral >> Uagb block be2c574d wp image 410 **/
+	.uagb-block-be2c574d .wp-image-410 {
+	width: 276px !important;
+}
+
+	/** Geral >> Post 13 wp image 409 **/
+	#post-13 .wp-image-409 {
+	width: 276px !important;
+}
+
+	/** Geral >> Uagb block 3bad3561 wp image 445 **/
+	.uagb-block-3bad3561 .wp-image-445 {
+	width: 276px !important;
+}
+
+	/** Geral >> Sobre nos uagb ifb img src **/
+	#sobre-nos .uagb-ifb-img-src {
+	margin-left: 17px !important;
 }
 
 
