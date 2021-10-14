@@ -12,7 +12,7 @@
 	<atom:link href="https://petcomputacaouece.github.io/secomp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://petcomputacaouece.github.io/secomp</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Oct 2021 13:22:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Oct 2021 23:29:15 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>André Moura</title>
+		<link>https://petcomputacaouece.github.io/secomp/andre-moura/</link>
+					<comments>https://petcomputacaouece.github.io/secomp/andre-moura/#respond</comments>
+		
+		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 23:20:30 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[convidados]]></category>
+		<guid isPermaLink="false">https://petcomputacaouece.github.io/secomp/?p=456</guid>
+
+					<description><![CDATA[Graduação em Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA), Mestrado em Atmospheric Science pela University of Washington...]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color">André Moura possui graduação em Engenharia Eletrônica pelo Instituto Tecnológico de Aeronáutica (ITA), Mestrado em Atmospheric Science pela University of Washington e Doutorado em Ciência da Computação pela University of California Santa Barbara (UCSB). Atualmente é professor titular da Universidade Estadual do Ceará (UECE), atuando em pesquisas na áreas de Segurança da Informação, Criptografia, Comércio eletrônico e smart cards.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://petcomputacaouece.github.io/secomp/andre-moura/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alex Monteiro</title>
+		<link>https://petcomputacaouece.github.io/secomp/alex-monteiro/</link>
+					<comments>https://petcomputacaouece.github.io/secomp/alex-monteiro/#respond</comments>
+		
+		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 23:05:56 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[convidados]]></category>
+		<guid isPermaLink="false">https://petcomputacaouece.github.io/secomp/?p=449</guid>
+
+					<description><![CDATA[Alex é Desenvolvedor e Líder de Pesquisa e Inovação em Segurança da Informação no Atlântico e atualmente lidera a área de Segurança da Informação com especialidade em Blockchain, Proteção de Dados Pessoais e Análise de Vulnerabilidades.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color">Alex é Desenvolvedor e Líder de Pesquisa e Inovação em Segurança da Informação no Atlântico. Atua há 12 anos no desenvolvimento de soluções tecnológicas para diferentes áreas e atualmente lidera a área de Segurança da Informação com especialidade em Blockchain, Proteção de Dados Pessoais e Análise de Vulnerabilidades.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://petcomputacaouece.github.io/secomp/alex-monteiro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>GEMP</title>
 		<link>https://petcomputacaouece.github.io/secomp/gemp/</link>
 		
