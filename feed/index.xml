@@ -12,7 +12,7 @@
 	<atom:link href="https://petcomputacaouece.github.io/secomp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://petcomputacaouece.github.io/secomp</link>
 	<description></description>
-	<lastBuildDate>Wed, 13 Oct 2021 23:29:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 01:51:30 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Thiago Ribeiro da Angola Cables</title>
+		<link>https://petcomputacaouece.github.io/secomp/thiago-ribeiro-da-angola-cables/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lima]]></dc:creator>
+		<pubDate>Sun, 17 Oct 2021 01:51:22 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<category><![CDATA[convidados]]></category>
+		<guid isPermaLink="false">https://petcomputacaouece.github.io/secomp/?p=461</guid>
+
+					<description><![CDATA[Analista de Sistema no ramo de Telecomunicações nos últimos 10 anos como conhecimentos de segurança, nuvem e soluções da Microsoft.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color">Analista de Sistema no ramo de Telecomunicações nos últimos 10 anos como conhecimentos de segurança, nuvem e soluções da Microsoft.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>André Moura</title>
 		<link>https://petcomputacaouece.github.io/secomp/andre-moura/</link>
 					<comments>https://petcomputacaouece.github.io/secomp/andre-moura/#respond</comments>
